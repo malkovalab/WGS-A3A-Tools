@@ -23,10 +23,8 @@ This repository contains tools used in the analysis of WGS variant calls of BIR 
 6. Call mutations by Mutect2
 `./mutect2_calling.sh`
 
-7-a. (Optional Branch-1) Convert VCF into tsv format that can be next used by pandas
+7. (Optional Branch-1) Convert VCF into tsv format that can be next used by pandas
 `vcf_to_tsv.sh`
-
-7-b. (Optional Branch-2) Convert VCF into MAF format that can be used for clustering
 
 
 | FileName | Short Description |
