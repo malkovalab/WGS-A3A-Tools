@@ -46,9 +46,12 @@ Variant filtration, analysis as well as guidelines are contained within the repo
 Additional example figures created through the notebook:
 - Generating randomly placed mutations in the genome
 ![](https://github.com/malkovalab/WGS-A3A-Tools/blob/main/Figures/Random_SNP_Placement_genome_example.png)
+
 - Simulating null hypothesis for genomewide mutations vs chr3R
 ![](https://github.com/malkovalab/WGS-A3A-Tools/blob/main/Figures/Probability%20of%20Finding%20a%20G%20to%20N%20mutation%20on%20Chr%20III%20Given%20Random%20Distribution%20(N%3D100%2C000)%2C%20p_0.00001_new.png)
+
 - Drawing genomes for each sample with highlighted mutation spectra
 ![](https://github.com/malkovalab/WGS-A3A-Tools/blob/main/Figures/JT44_CSFP2.png)
+
 - Drawing mutation spectra graphs (strand independent)
 ![](https://github.com/malkovalab/WGS-A3A-Tools/blob/main/Figures/JT44_spectra.png)
